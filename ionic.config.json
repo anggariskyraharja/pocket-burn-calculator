@@ -1,0 +1,8 @@
+{
+  "name": "pocket-burn-calculator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "df12a1de"
+}
