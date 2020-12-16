@@ -24,3 +24,34 @@
 @import "~@ionic/angular/css/text-alignment.css";
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
+
+:root {
+    --ion-color-primary: #FC473E;
+    --ion-background-color: #FFFFFF;
+}
+
+ion-toolbar {
+    --background: #FC473E;
+    --color: #FFFFFF;
+}
+.color1 {
+    --background: #87783F;
+    --color: #000000;
+}
+.color2 {
+    --background: #FACB63;
+    --color: #000000;
+}
+.color3 {
+    --background:#87783F;
+    --border-style: solid;
+    --border-color: #d3cbb6;
+    --color: #FFFFFF;
+}
+.color4 {
+    --background: #FB7B62;
+    --border-style: solid;
+    --border-color: #FB7B62;
+    --color: #FFFFFF;
+    text-align: center;
+}
